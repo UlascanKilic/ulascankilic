@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Ulaşcan's github stats](https://github-readme-stats.vercel.app/api?username=ulascankilic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <youtube>https://www.youtube.com/watch?v=TtBddZlx95U</youtube>
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ulascankilic" frameborder="0"></iframe>
