@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+NASM     14 mins         ████████████▒░░░░░░░░░░░░   49.86 % 
+C++      13 mins         ███████████▓░░░░░░░░░░░░░   46.06 % 
+C#       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 <!--END_SECTION:waka-->
 
