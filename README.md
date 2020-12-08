@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#       23 mins         ███████████▒░░░░░░░░░░░░░   45.73 % 
-NASM     14 mins         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-C++      13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+C#           22 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
