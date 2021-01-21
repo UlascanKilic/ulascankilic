@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-NASM   2 hrs 57 mins   ███████████████░░░░░░░░░░   60.31 % 
-C#     1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   39.69 % 
+NASM   3 hrs 40 mins   ████████████████▒░░░░░░░░   65.59 % 
+C#     1 hr 55 mins    ████████▓░░░░░░░░░░░░░░░░   34.41 % 
 ```
 <!--END_SECTION:waka-->
 
