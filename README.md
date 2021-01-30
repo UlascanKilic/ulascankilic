@@ -29,7 +29,7 @@ Other   1 min           ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-Turkish resume : <a href="ulascan.engineer">My Personal Website</a>
+Turkish resume : <youtube>ulascan.engineer</youtube>
 
 
 <youtube>https://www.youtube.com/watch?v=TtBddZlx95U</youtube>
