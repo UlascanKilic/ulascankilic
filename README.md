@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#   1 min           █████████████████████████   100.00 % 
+JavaScript   7 mins          █████████████████░░░░░░░░   68.54 % 
+JSON         2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.95 % 
+C#           1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 ```
 <!--END_SECTION:waka-->
 
