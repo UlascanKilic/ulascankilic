@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSON   12 mins         █████████████████████████   100.00 % 
+JSON   12 mins         █████████████████████░░░░   84.65 % 
+C++    2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 ```
 <!--END_SECTION:waka-->
 
