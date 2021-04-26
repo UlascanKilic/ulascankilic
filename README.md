@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSON   12 mins         █████████████████████░░░░   84.65 % 
-C++    2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+JSON       16 mins         ██████████▓░░░░░░░░░░░░░░   42.93 % 
+Makefile   12 mins         ████████▒░░░░░░░░░░░░░░░░   33.24 % 
+C          5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+C++        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 <!--END_SECTION:waka-->
 
