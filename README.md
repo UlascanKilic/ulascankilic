@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-SQL    17 mins         █████████████████████████   100.00 % 
+HTML     16 mins         █████████████▓░░░░░░░░░░░   54.48 % 
+CSS      8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
+Python   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 ```
 <!--END_SECTION:waka-->
 
