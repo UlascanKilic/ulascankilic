@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#       3 hrs 6 mins    ██████████████████████▒░░   89.77 % 
-Python   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
