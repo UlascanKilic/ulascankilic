@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-
+VB.NET       13 mins         ████████▓░░░░░░░░░░░░░░░░   34.34 % 
+JavaScript   8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
+HTML         8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.49 % 
+C#           4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Other        3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 <!--END_SECTION:waka-->
 
