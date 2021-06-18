@@ -21,11 +21,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other        1 hr 44 mins    ████████████████░░░░░░░░░   64.03 % 
-C            24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-VB.NET       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-HTML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Other   1 hr 41 mins    ████████████████████░░░░░   80.55 % 
+C       24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 <!--END_SECTION:waka-->
 
