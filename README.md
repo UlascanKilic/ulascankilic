@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C#     1 hr 14 mins    ██████████████████████▒░░   89.16 % 
-JSON   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
