@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 % 
-C#           2 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.56 % 
-HTML         1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Other        45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+C#      2 hrs 18 mins   █████████████████████████   99.97 % 
 ```
 <!--END_SECTION:waka-->
 
