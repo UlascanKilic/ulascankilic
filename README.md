@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/FAS_-m0OwbcAAAAM/programmer-code.gif"  />
+<img align="right" height="150" src="https://github.com/UlascanKilic/ulascankilic/blob/master/programmer-code.gif"  />
 
 ###
 
