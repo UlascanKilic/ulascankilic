@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">I'm a senior CENG student at Yildiz Technical University and working for Siemens as a junior software engineer.<br>Currently i'm using SpringBoot and React for my professional businesses and also studying on Virtual Reality projects that I did as a hobby.</h5>
+<h5 align="left">I'm a senior CENG student at Yildiz Technical University and working for Mercedes-Benz as a Senior VR/AR Specialist.<br></h5>
 
 ###
 
