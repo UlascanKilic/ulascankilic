@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">I'm a senior CENG student at Yildiz Technical University and working for Mercedes-Benz as a Senior VR/AR Specialist.<br></h5>
+<h5 align="left">I'm a senior CENG student at Yildiz Technical University and working for Siemens as a Software Engineer.<br></h5>
 
 ###
 
