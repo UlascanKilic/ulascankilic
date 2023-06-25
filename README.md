@@ -16,7 +16,6 @@
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=ulascankilic)](https://github.com/ulascankilic)
  
 
-
 ###
 
 <img align="right" height="150" src="https://github.com/UlascanKilic/ulascankilic/blob/master/programmer-code.gif"  />
@@ -65,5 +64,8 @@
 ###
 
 <br clear="both">
+
+![](https://komarev.com/ghpvc/?username=UlascanKilic&style=flat-square)
+
 
 ###
