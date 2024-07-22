@@ -1,24 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ulascan and I'm a Software Engineer, from Turkey!</h2>
+<h2 align="center">Hi 👋! My name is Ulascan and I'm a Software Engineer, from Turkey!</h2>
 
 ###
 
-<h2 align="left">About</h2>
-
-###
-
-<h5 align="left">I'm a senior CENG student at Yildiz Technical University and working for Siemens as a Software Engineer.<br></h5>
-
-###
-
-
-
-[![Ulascan's GitHub stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=ulascankilic)](https://github.com/ulascankilic)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=ulascankilic)](https://github.com/ulascankilic)
- 
-
-###
-
-<img align="right" height="150" src="https://github.com/UlascanKilic/ulascankilic/blob/master/programmer-code.gif"  />
+<h5 align="center">I'm a senior CENG student at Yildiz Technical University and working for Siemens as a Software Engineer.<br><br><br></h5>
 
 ###
 
@@ -41,8 +25,8 @@
 </div>
 
 ###
-
-<div align="left">
+<br>
+<div align="center">
   <a href="https://www.linkedin.com/in/ulascan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -56,9 +40,3 @@
 
 ###
 
-<br clear="both">
-
-![](https://komarev.com/ghpvc/?username=UlascanKilic&style=flat-square)
-
-
-###
