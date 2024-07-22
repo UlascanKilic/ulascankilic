@@ -15,6 +15,7 @@
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elasticsearch/elasticsearch-original.svg" height="30" width="42" alt="elastic logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" width="42" alt="aws logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" height="30" width="42" alt="azuredevops logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
