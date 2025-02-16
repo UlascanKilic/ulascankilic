@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">I'm a senior CENG student at Yildiz Technical University and working for Siemens as a Software Engineer.<br><br><br></h5>
+<h5 align="center">Currently working for Trendyol Group as a Software Engineer.<br><br><br></h5>
 
 ###
 
